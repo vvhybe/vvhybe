@@ -13,3 +13,4 @@ insta = 'why.be7'
 twitter = 'whybe07'
 print(f'📫 How to reach me!, {insta}, {twitter}')
 ```
+![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=whybe7&show_icons=true&theme=dracula)
