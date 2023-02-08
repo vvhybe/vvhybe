@@ -1,15 +1,15 @@
 ```JS
-const name = ()=> 'whybe7';
+const name = ()=> 'whybe';
 console.log('👋 Hi, I’m', name());
-console.log('👀 I’m interested in ', WEB().Developement( FrontEnd && BackEnd ));
+console.log('👀 I’m interested in ', WEB().Developement( FrontEnd && BackEnd && Cloud));
 ```
 ```PHP
 $FS = new FullStack(name());
 $BackEnd = $FS->Server->getBackEnd();
-echo "🌱 I’m currently $FS->student() learning $BackEnd";
+echo "🌱 I’m currently $FS->status()";
 ```
 ```python
-insta = 'why.be7'
+insta = 'vvhybe7'
 twitter = 'whybe07'
 print(f'📫 How to reach me!, {insta}, {twitter}')
 ```
