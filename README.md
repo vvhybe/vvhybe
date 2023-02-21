@@ -9,9 +9,15 @@ $BackEnd = $FS->Server->getBackEnd();
 echo "🌱 I’m currently $FS->status()";
 ```
 ```python
-insta = 'vvhybe7'
-twitter = 'whybe07'
-print(f'📫 How to reach me!, {insta}, {twitter}')
+from bio import my_bio
+print(my_bio)
+
+# result:
+Passionate programmer and artist with a background in computer science and fine arts.
+Combines technical expertise with creativity and design to create beautiful things both in code and on paper.
+Proficient in various programming languages and enjoys exploring different mediums and styles of art.
+Open to collaboration and excited to make amazing things on GitHub.
+
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=0e75b6&style=flat" alt="whybe7" /> </p>
 
