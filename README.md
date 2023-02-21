@@ -17,13 +17,13 @@ Passionate programmer and artist with a background in computer science and fine 
 Combines technical expertise with creativity and design to create beautiful things both in code and on paper.
 Proficient in various programming languages and enjoys exploring different mediums and styles of art.
 Open to collaboration and excited to make amazing things on GitHub.
-
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=0e75b6&style=flat" alt="whybe7" /> </p>
 
-<p align="center" style="display:flex;justify-content:space-around;align-items:center"><img src="https://github-profile-trophy.vercel.app/?username=whybe7&theme=radical&row=1&column=7&no-frame=true"
-alt="whybe7" height="120px"
-/> </p>
+
+<p width="100%" align="center"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=whybe7&theme=radical&row=1&column=7&no-frame=true" alt="whybe7" height="120px"/> 
+</p>
 <br>
 <br>
 
