@@ -28,9 +28,9 @@ Open to collaboration and excited to make amazing things on GitHub.
 <br>
 
 <div width="100%" align="center"/>
-  <img height="180px"
+  <img height="160px"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=whybe7&show_icons=true&locale=en&layout=compact&theme=transparent" alt="whybe7" />
-  <img height="180px"
+  <img height="160px"
        src="https://github-readme-stats.vercel.app/api?username=whybe7&show_icons=true&theme=transparent" alt="MY GitHub stats"/>
 </div>
 <br>
