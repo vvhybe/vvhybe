@@ -40,3 +40,7 @@ Open to collaboration and excited to make amazing things on GitHub.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/whybe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/whybe" /></a></p><br>
+<br>
+<h3>Snake eating your contributions graph</h3>
+<p align="center"><img align="center" src="https://github.com/whybe7/whybe7/blob/output/github-contribution-grid-snake.svg" alt="Snake eating your contributions graph" /></p><br>
+
