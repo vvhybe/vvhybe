@@ -18,7 +18,7 @@ Combines technical expertise with creativity and design to create beautiful thin
 Proficient in various programming languages and enjoys exploring different mediums and styles of art.
 Open to collaboration and excited to make amazing things on GitHub.
 ```
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=0e75b6&style=flat" alt="whybe7" /> </p>
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=0e75b6&style=flat" alt="whybe7" /> </p>
 
 
 <p width="100%" align="center"/>
