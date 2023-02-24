@@ -1,3 +1,6 @@
+
+<p align="center"><img align="center" src="https://readme-typing-svg.demolab.com/?color=fe428e&lines=Hello%20There;I%27m+whybe+for+short+just+'YB'" alt="Hello There"/></p>
+
 ```JS
 const name = ()=> 'whybe';
 console.log('👋 Hi, I’m', name());
