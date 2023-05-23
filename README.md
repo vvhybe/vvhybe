@@ -1,5 +1,6 @@
-<p align="center"/>
-<img align="center" src="https://user-images.githubusercontent.com/95445743/235520109-9a4e7bd5-41e3-4ed0-8003-4b4b15ae4246.png" alt="YB-Profile Picture" height="180px"/> 
+<!-- Profile Thumbnail -->
+<p align="center" width="100%"/>
+<img align="center" src="https://github.com/whybe7/whybe7/assets/95445743/69f76d81-1216-45af-8cd6-391787e059d6" alt="YB-Profile Picture"/> 
 </p>
 <br>
 
