@@ -4,7 +4,14 @@
 </p>
 <br>
 
+<!-- Greeting -->
 <p align="center"><img align="center" src="https://readme-typing-svg.demolab.com/?color=fe428e&center=true&lines=Hello%20There;I%27m+whybe+for+short+just+'YB'" alt="Hello There"/></p>
+
+<!-- Profile views -->
+<p align="center"> 
+    <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=d6094e&style=for-the-badge"         alt="whybe7" /> 
+</p>
+<br>
 
 ```python
 from bio import my_bio
@@ -16,31 +23,27 @@ Combines technical expertise with creativity and design to create beautiful thin
 Proficient in various programming languages and enjoys exploring different mediums and styles of art.
 Open to collaboration and excited to make amazing things on GitHub.
 ```
-<p align="center"> <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=d6094e&style=for-the-badge" alt="whybe7" /> </p>
 
 <p align="center"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=whybe7&theme=radical&row=1&column=7&no-frame=true" alt="whybe7" height="120px"/> 
 </p>
-<br>
 
 <div width="100%" align="center"/>
     <img height="200px"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=whybe7&theme=transparent&hide_border=false" alt="MY GitHub stats"/>
+       src="https://github-readme-streak-stats.herokuapp.com/?user=whybe7&theme=transparent&hide_border=false" alt="MY GitHub Status"/>
 </div>
-<br>
-<br>
 
-<div width="100%" align="center"/>
+<!-- <div width="100%" align="center"/>
   <img height="160px"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=whybe7&show_icons=true&locale=en&layout=compact&theme=transparent" alt="whybe7" />
   <img height="160px"
        src="https://github-readme-stats.vercel.app/api?username=whybe7&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="MY GitHub stats"/>
   <img height="160px"
        src="https://gtce.itsvg.in/api?username=vvhybe7&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="MY GitHub stats"/>
-</div>
-<br>
+</div> -->
 <br>
 
+<!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 
 <table align="center">
