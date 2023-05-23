@@ -187,10 +187,15 @@ Open to collaboration and excited to make amazing things on GitHub.
 <p align="center"><img align="center" src="https://github.com/whybe7/whybe7/blob/output/github-contribution-grid-snake.svg" alt="Snake eating your contributions graph" /></p>
 <br>
 <br>
+<!-- Quotes -->
 <p align="center"><img align="center" src="https://readme-typing-svg.demolab.com/?color=0e75b6&center=true&lines=The+Long+is+boring;but+the+Short+is+simple." alt="My Quotes"/></p>
+<!-- Socila Media Links -->
 <p align="center">
   <a href="https://instagram.com/vvhybe7">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/%40vvhybe7-%23E1306C.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/vvhybe">
+    <img src="https://img.shields.io/badge/%40vvhybe-%230088cc.svg?logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://linkedin.com/in/yassinebouba">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -203,6 +208,12 @@ Open to collaboration and excited to make amazing things on GitHub.
   </a>
   <a href="https://twitter.com/vvhybe7">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://youtube.com/@codepathe">
+    <img src="https://img.shields.io/badge/Code%20Path-%23FF0000.svg?logo=Youtube&logoColor=white" alt="Youtube Channel"/>
+  </a>
+  <a href="https://instagram.com/codepathe">
+    <img src="https://img.shields.io/badge/%40codepathe-%23E1306C.svg?logo=Instagram&logoColor=white" alt="Youtube Channel Instagram Page"/>
   </a>
 </p>
 <br>
