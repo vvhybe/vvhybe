@@ -191,11 +191,16 @@ Open to collaboration and excited to make amazing things on GitHub.
 <p align="center"><img align="center" src="https://github.com/whybe7/whybe7/blob/output/github-contribution-grid-snake.svg" alt="Snake eating your contributions graph" /></p>
 <br>
 <br>
+
 <!-- Quotes -->
-<p align="center"><img align="center" src="https://readme-typing-svg.demolab.com/?color=0e75b6&center=true&lines=The+Long+is+boring;but+the+Short+is+simple." alt="My Quotes"/></p>
+<p align="center" width="100%">
+    <img align="center" src="https://readme-typing-svg.demolab.com/?color=0e75b6&center=true&lines=The+Long+is+boring;but+the+Short+is+simple.;--;Programming+is+the+art+of+weaving;intricate+lines+of+code;but+development+is+the+symphony;where+vision+and+execution+harmonize"
+    alt="My Quotes"/>
+</p>
+
 <!-- Socila Media Links -->
 <p align="center">
-  <a href="https://instagram.com/vvhybe7">
+  <a href="https://instagram.com/whybe.life">
     <img src="https://img.shields.io/badge/%40vvhybe7-%23E1306C.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://t.me/vvhybe">
