@@ -9,7 +9,7 @@
 
 <!-- Profile views -->
 <p align="center"> 
-    <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=d6094e&style=for-the-badge"         alt="whybe7" /> 
+    <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=whybe7&label=Profile%20views&color=d6094e&style=for-the-badge"         alt="Profile Views" /> 
 </p>
 <br>
 
@@ -25,12 +25,12 @@ Open to collaboration and excited to make amazing things on GitHub.
 ```
 
 <p align="center"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=whybe7&theme=radical&row=1&column=7&no-frame=true" alt="whybe7" height="120px"/> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=vvhybe&theme=radical&row=1&column=7&no-frame=true" alt="Github Profile Trophy" height="120px"/> 
 </p>
 
 <div width="100%" align="center"/>
     <img height="200px"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=whybe7&theme=transparent&hide_border=false" alt="MY GitHub Status"/>
+       src="https://github-readme-streak-stats.herokuapp.com/?user=vvhybe&theme=transparent&hide_border=false" alt="MY GitHub Status"/>
 </div>
 
 <!-- <div width="100%" align="center"/>
@@ -188,7 +188,7 @@ Open to collaboration and excited to make amazing things on GitHub.
 
 <h3 align="center">I have a snake not a bug in my contributions graph</h3>
 
-<p align="center"><img align="center" src="https://github.com/whybe7/whybe7/blob/output/github-contribution-grid-snake.svg" alt="Snake eating your contributions graph" /></p>
+<p align="center"><img align="center" src="https://github.com/vvhybe/vvhybe/blob/output/github-contribution-grid-snake.svg" alt="Snake eating your contributions graph" /></p>
 <br>
 <br>
 
@@ -200,8 +200,8 @@ Open to collaboration and excited to make amazing things on GitHub.
 
 <!-- Socila Media Links -->
 <p align="center">
-  <a href="https://instagram.com/whybe.life">
-    <img src="https://img.shields.io/badge/%40vvhybe7-%23E1306C.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/vvhybee">
+    <img src="https://img.shields.io/badge/%40vvhybe-%23E1306C.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://t.me/vvhybe">
     <img src="https://img.shields.io/badge/%40vvhybe-%230088cc.svg?logo=Telegram&logoColor=white" alt="Telegram"/>
@@ -215,7 +215,7 @@ Open to collaboration and excited to make amazing things on GitHub.
   <a href="https://reddit.com/user/whybe7">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/>
   </a>
-  <a href="https://twitter.com/vvhybe7">
+  <a href="https://twitter.com/vvhybe">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://youtube.com/@codepathe">
