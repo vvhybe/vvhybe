@@ -209,10 +209,10 @@ Open to collaboration and excited to make amazing things on GitHub.
   <a href="https://linkedin.com/in/yassinebouba">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://pinterest.com/whybe7">
+  <a href="https://pinterest.com/vvhybe">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"/>
   </a>
-  <a href="https://reddit.com/user/whybe7">
+  <a href="https://reddit.com/user/vvhybe">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/>
   </a>
   <a href="https://twitter.com/vvhybe">
