@@ -33,6 +33,13 @@ Open to collaboration and excited to make amazing things on GitHub.
        src="https://github-readme-streak-stats.herokuapp.com/?user=vvhybe&theme=transparent&hide_border=false" alt="MY GitHub Status"/>
 </div>
 
+<br>
+<br>
+<div width="100%" align="center"/>
+<a href="https://app.daily.dev/whybe"><img src="https://api.daily.dev/devcards/0a5ccf7cf79c45eb97dd98bd7cd82d58.png?r=0l2" height="350px" alt="whybe's Dev Card"/></a>
+</div>
+
+
 <!-- <div width="100%" align="center"/>
   <img height="160px"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=whybe7&show_icons=true&locale=en&layout=compact&theme=transparent" alt="whybe7" />
