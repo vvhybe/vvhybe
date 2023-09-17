@@ -35,19 +35,19 @@ Open to collaboration and excited to make amazing things on GitHub.
 
 <br>
 <br>
-<div width="100%" align="center"/>
-<a href="https://app.daily.dev/whybe"><img src="https://api.daily.dev/devcards/0a5ccf7cf79c45eb97dd98bd7cd82d58.png?r=0l2" height="350px" alt="whybe's Dev Card"/></a>
-</div>
-
-
 <!-- <div width="100%" align="center"/>
-  <img height="160px"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=whybe7&show_icons=true&locale=en&layout=compact&theme=transparent" alt="whybe7" />
-  <img height="160px"
-       src="https://github-readme-stats.vercel.app/api?username=whybe7&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="MY GitHub stats"/>
-  <img height="160px"
-       src="https://gtce.itsvg.in/api?username=vvhybe7&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="MY GitHub stats"/>
+<a href="https://app.daily.dev/whybe"><img src="https://api.daily.dev/devcards/0a5ccf7cf79c45eb97dd98bd7cd82d58.png?r=0l2" height="350px" alt="whybe's Dev Card"/></a>
 </div> -->
+
+
+<!-- <div width="100%" align="center"/> -->
+<!--   <img height="160px"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=vvhybe&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vvhybe" /> -->
+<!--   <img height="160px"
+       src="https://github-readme-stats.vercel.app/api?username=vvhybe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="MY GitHub stats"/> -->
+<!--   <img height="160px"
+       src="https://gtce.itsvg.in/api?username=vvhybe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="MY GitHub stats"/> -->
+<!-- </div> -->
 <br>
 
 <!-- Tech Stack -->
