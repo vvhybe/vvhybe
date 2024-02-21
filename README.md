@@ -10,27 +10,27 @@
 
 <!-- Profile Metrics -->
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/header.svg" alt="header.svg"/>
+  <img align="center" width="49%" src="./assests/metrics/metrics-header.svg" alt="header.svg"/>
 </a>
 <br/>
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/repositories.svg" alt="repositories.svg"/>
+  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="isocalendar.svg"/>
 </a>
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/acti_comm.svg" alt="acti_comm.svg"/>
-</a>
-
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/iso_calender.svg" alt="iso_calender.svg"/>
+  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="acti_comm.svg"/>
 </a>
 
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/issue_pr_lang.svg" alt="issue_pr_lang.svg"/>
+  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="isocalendar.svg"/>
 </a>
 
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/github-habits.svg" alt="github-habits.svg"/>
+  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="issue_pr_lang.svg"/>
+</a>
+
+<a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="github-habits.svg"/>
 </a>
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assets/svg/achievements.svg" alt="achievements.svg"/>
+  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="achievements.svg"/>
 </a>
