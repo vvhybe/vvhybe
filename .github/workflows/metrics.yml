@@ -18,8 +18,7 @@ jobs:
         with:
           filename: ./assets/svg/achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: vvhybe
+          committer_token: yes
           base: achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
@@ -50,7 +49,7 @@ jobs:
         with:
           filename: ./assets/svg/lines-of-code.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: yes
           base: "repositories"
           plugin_lines: yes
 
@@ -63,7 +62,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: yes
 
           # Options
           user: vvhybe
@@ -80,7 +79,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: yes
 
           # Options
           user: vvhybe
@@ -97,7 +96,7 @@ jobs:
         with:
           filename: ./assets/svg/github-habits.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: yes
           config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
           user: vvhybe
           base: ""
@@ -117,7 +116,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: yes
 
           # Options
           user: vvhybe
@@ -137,7 +136,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: yes
 
           # Options
           user: vvhybe
