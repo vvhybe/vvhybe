@@ -45,6 +45,3 @@
   <img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
 </a>
 <br/>
-
-
-
