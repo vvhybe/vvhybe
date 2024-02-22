@@ -44,4 +44,7 @@
 <a href="https://github.com/vvhybe">
   <img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
 </a>
-<br/>
+
+<a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="metrics-stared-topics.svg" alt="Metrics Stared Topics"/>
+</a>
