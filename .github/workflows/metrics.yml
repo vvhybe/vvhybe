@@ -228,7 +228,7 @@ jobs:
           config_twemoji: yes # TW emojies
           plugin_achievements: yes
           plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
+          plugin_achievements_limit: 6          # Display all[0]/N[x] unlocked achievements
           plugin_achievements_secrets: yes      # Display unlocked secrets achievements
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
 
