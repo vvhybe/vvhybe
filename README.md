@@ -12,6 +12,9 @@
 <a href="https://github.com/vvhybe">
   <img align="center" width="49%" src="metrics-header.svg" alt="Metrics Github Profile"/>
 </a>
+<a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="metrics-contributions.svg" alt="Metrics Github Contributions"/>
+</a>
 <br/>
 <a href="https://github.com/vvhybe">
   <img align="center" width="49%" src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
@@ -19,10 +22,6 @@
 
 <a href="https://github.com/vvhybe">
   <img align="center" width="49%" src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
-</a>
-
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-contribution.svg" alt="Metrics Github Contributions"/>
 </a>
 
 <a href="https://github.com/vvhybe">
@@ -34,13 +33,18 @@
 </a>
 
 <a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
+</a>
+
+<a href="https://github.com/vvhybe">
   <img align="center" width="49%" src="metrics-issues-followup.svg" alt="Metrics Github Issues Followup"/>
 </a>
 
+<br/>
 <a href="https://github.com/vvhybe">
   <img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
 </a>
+<br/>
 
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
-</a>
+
+
