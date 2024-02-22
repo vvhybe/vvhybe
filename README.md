@@ -10,27 +10,37 @@
 
 <!-- Profile Metrics -->
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-header.svg" alt="header.svg"/>
+  <img align="center" width="49%" src="metrics-header.svg" alt="Metrics Github Profile"/>
 </a>
 <br/>
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="isocalendar.svg"/>
-</a>
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="acti_comm.svg"/>
+  <img align="center" width="49%" src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
 </a>
 
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="isocalendar.svg"/>
+  <img align="center" width="49%" src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
 </a>
 
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="issue_pr_lang.svg"/>
+  <img align="center" width="49%" src="metrics-contribution.svg" alt="Metrics Github Contributions"/>
 </a>
 
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="github-habits.svg"/>
+  <img align="center" width="49%" src="metrics-isocalendar.svg" alt="Metrics Iso-Calendar"/>
 </a>
+
 <a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="./assests/metrics/metrics-" alt="achievements.svg"/>
+  <img align="center" width="49%" src="metrics-languages.svg" alt="Metrics Programing Languages"/>
+</a>
+
+<a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="metrics-issues-followup.svg" alt="Metrics Github Issues Followup"/>
+</a>
+
+<a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
+</a>
+
+<a href="https://github.com/vvhybe">
+  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
 </a>
