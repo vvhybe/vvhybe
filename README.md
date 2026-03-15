@@ -1,62 +1,11 @@
-<!-- Profile Thumbnail -->
-<p align="center" width="100%"/>
-  <img align="center" src="https://raw.githubusercontent.com/vvhybe/vvhybe/main/assets/imgs/thumbnail.png" alt="YB-Profile Picture"/>
-</p>
-<!-- Profile Views -->
-<p align="center">
-  <img align="center" height="25px" src="https://komarev.com/ghpvc/?username=vvhybe&label=Profile%20views&color=d6094e&style=for-the-badge"         alt="Profile Views" />
-</p>
-<br>
+# vvhybe
 
-<!-- === Profile Metrics === -->
+Just a developer trying to survive the pragmatic constraints of enterprise ERPs by day, building clean modern web apps by night, and currently torturing myself by learning Rust and memory management.
 
-<!-- Metrics Github Profile -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-header.svg" alt="Metrics Github Profile"/>
-</a>
-<!-- Metrics Github Contributions -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-contributions.svg" alt="Metrics Github Contributions"/>
-</a>
-<br/>
+### Fun Facts
 
-<!-- Metrics Github Repositories -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-repositories.svg" alt="Metrics Github Repositories"/>
-</a>
-
-<!-- Metrics Github Activity Community -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-activity-community.svg" alt="Metrics Github Activity Community"/>
-</a>
-
-<!-- Metrics Iso-Calendar -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-isocalendar.svg" alt="Metrics Iso-Calendar"/>
-</a>
-
-<!-- Metrics Programing Languages -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-languages.svg" alt="Metrics Programing Languages"/>
-</a>
-
-<!-- Metrics Github Achievements -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-achievements.svg" alt="Metrics Github Achievements"/>
-</a>
-
-<!-- Metrics Github Issues Followup -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-issues-followup.svg" alt="Metrics Github Issues Followup"/>
-</a>
-
-<!-- Metrics Code Habits -->
-<br/>
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-code-habits.svg" alt="Metrics Code Habits"/>
-</a>
-
-<!-- Metrics Stared Topics -->
-<a href="https://github.com/vvhybe">
-  <img align="center" width="49%" src="metrics-stared-topics.svg" alt="Metrics Stared Topics"/>
-</a>
+- I write Python and Odoo for the bills, and TypeScript/Next.js for the thrills.
+- Currently building **Papyrus**, a blazing-fast PDF generation microservice using FastAPI and agnostic PDF generation motor, you and what you like: PriceXML, WkHTMLtoPDF, WeasyPrint .... 
+- I take photos of candid "stolen moments" whenever I step away from the keyboard.
+- I consume complex Korean thrillers at an alarming rate.
+- Based in Morocco 🇲🇦
