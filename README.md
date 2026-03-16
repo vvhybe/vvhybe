@@ -1,4 +1,11 @@
-# vvhybe
+```
+██╗   ██╗██╗   ██╗██╗  ██╗██╗   ██╗██████╗ ███████╗
+██║   ██║██║   ██║██║  ██║╚██╗ ██╔╝██╔══██╗██╔════╝
+██║   ██║██║   ██║███████║ ╚████╔╝ ██████╔╝█████╗  
+╚██╗ ██╔╝╚██╗ ██╔╝██╔══██║  ╚██╔╝  ██╔══██╗██╔══╝  
+ ╚████╔╝  ╚████╔╝ ██║  ██║   ██║   ██████╔╝███████╗
+  ╚═══╝    ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚══════╝
+```
 
 Just a developer trying to survive the pragmatic constraints of enterprise ERPs by day, building clean modern web apps by night, and currently torturing myself by learning Rust and memory management.
 
