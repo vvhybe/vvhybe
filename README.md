@@ -7,7 +7,30 @@
   ╚═══╝    ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚══════╝
 ```
 
-Just a developer trying to survive the pragmatic constraints of enterprise ERPs by day, building clean modern web apps by night, and currently torturing myself by learning Rust and memory management.
+<div align="center">
+
+### 🎯 Featured Projects
+
+<p>
+  <a href="https://www.npmjs.com/package/@vvhybe/odoo-client">
+    <img src="https://img.shields.io/npm/v/@vvhybe/odoo-client?color=6633ff&label=%40vvhybe%2Fodoo-client&style=for-the-badge" alt="@vvhybe/odoo-client">
+  </a>
+  <a href="https://vvhybe.com">
+    <img src="https://img.shields.io/badge/vvhybe.com-Portfolio-6633ff?style=for-the-badge" alt="vvhybe.com">
+  </a>
+</p>
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/FastAPI-010101?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Odoo-E80368?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
+</p>
+
+</div>
 
 ### Fun Facts
 
